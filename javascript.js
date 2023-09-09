@@ -1,8 +1,3 @@
-let admin;
-let name = "John"
+const BIRTHDAY = "18.04.1982";
 
-
-
-admin = name;
-
-alert(admin);
+let age = someCode(birthday);
